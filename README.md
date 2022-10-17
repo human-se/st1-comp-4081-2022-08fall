@@ -55,7 +55,9 @@ Initially, the base app contains the following:
 
 If you run the base app and open <http://localhost:3000> in your browser, the following page should be displayed:
 
-![Screenshot of home page in base app](fig_before_home.png)
+<p align="center">
+    <img src="fig_before_home.png" alt="Screenshot of home page in base app" width=70% style="text-align:center">
+</p>
 
 ## Tasks to Perform
 
@@ -89,20 +91,22 @@ If you run the base app and open <http://localhost:3000> in your browser, the fo
 
 3. **Index Page.** Create an index page for the Animal model that looks like this, following the standard naming conventions used in the demos (note the URL):
 
-    ![Screenshot of home page in base app](fig_after_index.png)
+    <p align="center">
+        <img src="fig_after_index.png" alt="Screenshot of index page in base app" width=70% style="text-align:center">
+    </p>
 
-**Important! Do not forget to add a link to the home page!**
+    **Important! Do not forget to add a link to the home page!**
 
-Don't worry too much about the styling of things, but, if you want to make your table look exactly the same as the picture, the table styles are:
-
-    ```HTML
-    <table class="table table-striped">
-        <thead class="table-dark">
-    ```
+    Don't worry too much about the styling of things, but, if you want to make your table look exactly the same as the picture, the table styles are:
+    
+        <table class="table table-sm table-striped">
+            <thead class="table-dark">
 
 4. **Hyperlink.** Add a link from the home page to the index page that looks like this:
 
-    ![Screenshot of home page in base app](fig_after_home.png)
+    <p align="center">
+        <img src="fig_after_home.png" alt="Screenshot of home page in base app" width=70% style="text-align:center">
+    </p>
 
 ## How to Submit
 
