@@ -26,19 +26,13 @@
     cd st1
     ```
 
-4. Switch to the test branch:
-
-    ```bash
-    git switch st1-zoo
-    ```
-
-5. Open the working directory in VS Code:
+4. Open the working directory in VS Code:
 
     ```bash
     code ./
     ```
 
-6. Do the usual 2-step to initialize the project:
+5. Do the usual 2-step to initialize the project:
 
     ```bash
     bundle install
